@@ -1,1 +1,12 @@
 Download:
+<TFT_eSPI.h>
+<TJpg_Decoder.h>
+
+Use:
+ESP32-cam, 
+three IR light(860nm or 940nm), 
+tft screen(recommend 128*128 tft screen), 
+40000mah battery,
+MT-3608 DC DC,
+power switch,
+battery charge board with 5V step-up
